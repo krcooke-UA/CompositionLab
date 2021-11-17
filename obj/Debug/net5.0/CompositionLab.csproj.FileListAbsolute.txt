@@ -1,0 +1,16 @@
+C:\source\12057969\CompositionLab\obj\Debug\net5.0\CompositionLab.csproj.AssemblyReference.cache
+C:\source\12057969\CompositionLab\obj\Debug\net5.0\CompositionLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\12057969\CompositionLab\obj\Debug\net5.0\CompositionLab.AssemblyInfoInputs.cache
+C:\source\12057969\CompositionLab\obj\Debug\net5.0\CompositionLab.AssemblyInfo.cs
+C:\source\12057969\CompositionLab\obj\Debug\net5.0\CompositionLab.csproj.CoreCompileInputs.cache
+C:\source\12057969\CompositionLab\bin\Debug\net5.0\CompositionLab.exe
+C:\source\12057969\CompositionLab\bin\Debug\net5.0\CompositionLab.deps.json
+C:\source\12057969\CompositionLab\bin\Debug\net5.0\CompositionLab.runtimeconfig.json
+C:\source\12057969\CompositionLab\bin\Debug\net5.0\CompositionLab.runtimeconfig.dev.json
+C:\source\12057969\CompositionLab\bin\Debug\net5.0\CompositionLab.dll
+C:\source\12057969\CompositionLab\bin\Debug\net5.0\ref\CompositionLab.dll
+C:\source\12057969\CompositionLab\bin\Debug\net5.0\CompositionLab.pdb
+C:\source\12057969\CompositionLab\obj\Debug\net5.0\CompositionLab.dll
+C:\source\12057969\CompositionLab\obj\Debug\net5.0\ref\CompositionLab.dll
+C:\source\12057969\CompositionLab\obj\Debug\net5.0\CompositionLab.pdb
+C:\source\12057969\CompositionLab\obj\Debug\net5.0\CompositionLab.genruntimeconfig.cache
